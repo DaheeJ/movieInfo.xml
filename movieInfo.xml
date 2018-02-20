@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<favorite-movie>
+    <movie>
+        <name>John Wick</name>
+        <br/>
+        <Image>
+            <img width="150" height="150" src="johnwick.jpg"/>
+        </Image>
+        <br/>
+        <cast>Keanu Reeves, Michael Nyqvist, Alfie Allen </cast>
+        <br/>
+        <story-line>
+            An ex-hitman comes out of retirement to track down the gangsters that took everything from him.
+        </story-line>
+        <br/>
+        <Movie-by-Genre>Action</Movie-by-Genre>
+        <br/>
+    </movie><br/>
+
+    <movie>
+        <name>The Wailing</name>
+        <br/>
+        <Image>
+            <img width="150" height="150" src="wailing.jpg"/>
+        </Image>
+        <br/>
+        <cast>Do-won Kwak, Jun Kunimura, Jung-min Hwang </cast>
+        <br/>
+        <story-line>
+            A stranger arrivers in a little village and soon after a mysterious sickness starts spreading.
+            A policeman is drawn<br/> 
+            into the incident and is forced to solve the mystery in order to save his daughter.
+        </story-line>
+        <br/>
+        <Movie-by-Genre>Horror, Thriller</Movie-by-Genre>
+        <br/>
+    </movie><br/>
+    
+    <movie>
+        <name>Kingsman: The Secret Service</name>
+        <br/>
+        <Image>
+            <img width="150" height="150" src="kingsman.jpg"/>
+        </Image>
+        <br/>
+        <cast> Colin Firth, Taron Egerton, Samuel L. Jackson</cast>
+        <br/>
+        <story-line>
+            A spy organization recruits an unrefined, but promising street kid into the agency's ultra-competitive training program, 
+            just as a global threat emerges from a twisted tech genius.
+        </story-line>
+        <br/>
+        <Movie-by-Genre>Action, Adventure, Comedy</Movie-by-Genre>
+        <br/>
+    </movie><br/>
+    
+    <movie>
+        <name>Valerian and the City of a Thousand Planets</name>
+        <br/>
+        <Image>
+            <img width="150" height="150" src="Valerian.jpg"/>
+        </Image>
+        <br/>
+        <cast> Dane DeHaan, Cara Delevingne, Clive Owen</cast>
+        <br/>
+        <story-line>
+            A dark force threatens Alpha, a vast metropolis and home to species from a thousand planets. 
+            Special operatives Valerian and Laureline must race to identify the marauding menace and safeguard not just Alpha, but the future of the universe.
+        </story-line>
+        <br/>
+        <Movie-by-Genre> Action, Adventure, Fantasy</Movie-by-Genre>
+        <br/>
+    </movie><br/>
+    
+    <movie>
+        <name>Wonder Woman</name>
+        <br/>
+        <Image>
+            <img width="150" height="150" src="WonderWoman.jpg"/>
+        </Image>
+        <br/>
+        <cast> Gal Gadot, Chris Pine, Robin Wright</cast>
+        <br/>
+        <story-line>
+            When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, 
+            leaves home to fight a war, discovering her full powers and true destiny.
+        </story-line>
+        <br/>
+        <Movie-by-Genre>Action, Adventure, Fantasy </Movie-by-Genre>
+        <br/>
+    </movie><br/>
+
+</favorite-movie>
